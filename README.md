@@ -13,4 +13,4 @@ This is my personal portfolio website built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://your-username.github.io/Akshaya-Portfolio
+https://Akshaya-2774.github.io/Akshaya-Portfolio
