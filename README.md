@@ -1,1 +1,16 @@
+# My Portfolio
 
+This is my personal portfolio website built using HTML, CSS and JavaScript.
+
+## Features
+- Responsive design
+- Simple UI
+- Personal projects showcase
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Live Demo
+(put your GitHub Pages link here)
